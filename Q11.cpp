@@ -4,8 +4,8 @@
 int main() {
     char str[100];
     
-    printf("Name: Divas Bhandari\n");
-    printf("Symbol No: 81010184\n\n");
+    printf("Name: Biwash Bohora\n");
+    printf("Symbol No: 81010178\n\n");
     printf("Lab Question 11: CFG - Language a^n b^n\n");
     
     printf("\nEnter a string over {a,b}: ");
